@@ -1,6 +1,5 @@
 SMSREFLEX API
 ===============
-Integrate SMSREFLEX API with your projects.
 
 SMSREFLEX provides an API that enables you to easily and automatically send SMS messages from your applications. 
 This API provides the following functions:
